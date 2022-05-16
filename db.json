@@ -106,6 +106,22 @@
         "admin": true
       },
       "id": 2
+    },
+    {
+      "email": "leidy.hopper@systers.xyz",
+      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
+      "roles": {
+        "waiter": true
+      },
+      "id": 3
+    },
+    {
+      "email": "cote.hopper@systers.xyz",
+      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
+      "roles": {
+        "chef": true
+      },
+      "id": 4
     }
   ]
 }
